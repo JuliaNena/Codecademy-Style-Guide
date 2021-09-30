@@ -1,0 +1,122 @@
+
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    background-color:#F4A261;
+    color:black;
+}
+
+main{
+    margin: 0 100px;
+}
+
+h1{
+    text-align: center;
+    font-family:"Raleway", sans-serif;
+    font-size: 44px;
+}
+
+
+h2{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+section{
+    border: 1px solid black;
+    padding: 0px 10px 20px;
+    margin: 10px auto;
+    background-color: white;
+}
+
+.colors{
+    text-align: center;
+     
+}
+
+.color{
+    display: inline-block;
+    width: 18%;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    font-size: 12px;
+  
+}
+.color1{
+    background-color: #264653;
+    color: white;
+}
+.color2{
+    background-color: #2A9D8F;
+    color: black;
+}
+.color3{
+    background-color:#E9C46A;
+    color: black;
+}
+.color4{
+    background-color: #F4A261;
+    color: black;
+}
+.color5{
+    background-color:#E76F51;
+    color: black;
+}
+
+.fonts{
+    text-align: center;
+}
+
+.fontfamily{
+    display: inline-block;
+    margin: 10px 50px;
+}
+
+.fontlabel{
+    text-decoration: underline;
+}
+.ralewaylight{
+    font-family: "Raleway", sans-serif;
+}
+
+.opensans{
+    font-family: "Open Sans", sans-serif;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style:italic;
+}
+   
+.text{
+   text-align: center;
+}
+.textstyle{
+    margin: 40px 0;
+    padding: 0;
+}
+
+.text h1{
+    margin: 0 auto;
+}
+
+.textstyle h2{
+    font-size: 18px;
+    font-weight: 600;
+    margin:0 auto;
+}
+
+.text p{
+    margin: 0 auto;
+}
+
+footer{
+text-align: right;
+font-size: 12px;
+
+}
